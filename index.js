@@ -1,3 +1,5 @@
+// Solutions are here//
+
 var customerName = 'bob'
 const leastFavoriteCustomer = 'sour fred'
 
