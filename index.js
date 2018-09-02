@@ -17,7 +17,7 @@ function setBestCustomer(){
 function overWriteBestCustomer(newFavorite){
   bestCustomer = newFavorite
 }
-
+var a;
 function congratulateCustomer(){
   return `congrats ${favoriteCustomer}`
 }
