@@ -26,3 +26,4 @@ function attemptTwoFavoriteCustomers(){
     let favoriteCustomer = 'bar'
     let favoriteCustomer = 'not bar'
 }
+// learn submit has a problam 
